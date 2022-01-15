@@ -6,7 +6,7 @@
 * values returned by the factorial method are in scientific notation to reduce
 * processing power requirements.*/
 
-public class Problem8 {
+public class Recursion {
 
     public static void main(String[] args) {
         //creates three doubles to call in the factorial method
